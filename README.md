@@ -64,11 +64,11 @@
    
 
    
-- <a href="https://www.credly.com/badges/202c9478-bf8d-4ba6-97f1-45520ee3c698/">SAS Visual Analytics 1 for SAS Viya: Basics</a>
+- <a href="https://www.credly.com/badges/a939d405-a026-4d76-91da-9b1b1f538d04/linked_in_profile">SAS Visual Analytics 1 for SAS Viya: Basics</a>
 
-- <a href="https://www.credly.com/badges/74938f7c-7a79-424e-b04f-e5c3e20d112d/">SAS Visual Analytics 2 for SAS Viya: Advanced</a>
+- <a href="https://www.credly.com/badges/d4758f03-a726-4d4b-8a3f-2fa3e4d95050/linked_in_profile">SAS Visual Analytics 2 for SAS Viya: Advanced</a>
 
-- <a href="https://learn.mongodb.com/c/z0ANpTy-R5GseUh14PxEAQ">Introduction to MongoDB</a>
+- <a href="https://learn.mongodb.com/c/uAUxKAPSQ6S7ose3kgM9OQ">Introduction to MongoDB</a>
   
 
   
