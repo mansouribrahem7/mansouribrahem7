@@ -40,20 +40,20 @@
 <img src="icons/CSS.svg" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="icons/JavaScript.svg" alt="Javascript" width="40" height="40"/>&nbsp;
 <img src="icons/C%23.png" alt="C#" width="40" height="40"/>&nbsp;
-<img src="icons/ASB.Net_MVC.png" alt="ASB.Net" width="40" height="40"/>&nbsp;
+<img src="icons/NET_Core_Logo.svg.png" alt="ASB.Net" width="40" height="40"/>&nbsp;
 <img src="icons/Python-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
 <img src="icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="icons/Node-Js.png" alt="Node-Js" width="40" height="40"/>&nbsp;
 <img src="icons/React-Dark.svg" alt="React" width="40" height="40"/>&nbsp;
 <img src="icons/Redux.svg" alt="Redux" width="40" height="40"/>&nbsp;
-
+<img src="icons/geopandas_logo.png" alt="geopandas" width="40" height="40"/>&nbsp;
+<img src="icons/Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/>&nbsp;
 <img src="icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="icons/Github-Dark.svg" alt="Github" width="40" height="40"/>&nbsp;
 <img src="icons/Git.svg" alt="Git" width="40" height="40"/>&nbsp;
 <img src="icons/AutoCAD-Dark.svg" alt="AutoCAD" width="40" height="40"/>&nbsp;
-
 <img src="icons/Photoshop.svg" alt="Photoshop" width="40" height="40"/>&nbsp;
 </p>
 
