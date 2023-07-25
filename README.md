@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mansour Ibrahem</h1>
-<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=02B300&center=true&vCenter=true&width=450&lines=GIS+Developer;.Net+Developer;GIS+Analyst;ITIan" alt="Typing SVG" /></a></div>
+<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=02B300&width=450&lines=GIS+Developer;.Net+Developer;GIS+Analyst;ITIan" alt="Typing SVG" /></a></div>
 <img align="right" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 
 <br>
