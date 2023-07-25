@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=02B300&width=450&lines=GIS+Developer;.Net+Developer;GIS+Analyst;ITIan" alt="Typing SVG" /></a>
 <br>
 <br>
-## ⚡ About Me:
+## ⚡ <h2>About Me:</h2>
 
 - 👷 Civil Engineer
 
