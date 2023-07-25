@@ -1,11 +1,9 @@
-<div align="center">
-  <img alt="Responsive" width="750" src="https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif" />
-</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=02B300&center=true&vCenter=true&width=450&lines=GIS+Developer;.Net+Developer;GIS+Analyst;ITIan" alt="Typing SVG" /></a>
+
+
 
 <h1 align="center">Hi 👋, I'm Mansour Ibrahem</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=02B300&center=true&vCenter=true&width=450&lines=GIS+Developer;.Net+Developer;GIS+Analyst;ITIan" alt="Typing SVG" /></a></div>
 <img align="right" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 
 <br>
